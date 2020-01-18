@@ -1,0 +1,35 @@
+body {
+  background-color: #ec9b3b;
+  color: #403321;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #403321;
+  border-width: 5px;
+  width: 98%;
+}
+
+img {
+  height: 250px;
+  width: 450px;
+}
+
+h1 {
+  color: #403321;
+}
+h3 {
+  color: #403321;
+}
+
+a:hover {
+
+color: white
+
+}
+
+img:hover {
+
+filter: invert(100%);
+
+}
